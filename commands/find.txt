@@ -1,0 +1,35 @@
+/Users/a00987471/.Trash/backup/css/cat1.txt
+/Users/a00987471/.Trash/backup/curl.txt
+/Users/a00987471/.Trash/backup/find.txt
+/Users/a00987471/.Trash/backup/js/cat1.txt
+/Users/a00987471/.Trash/backup/js/head.txt
+/Users/a00987471/.Trash/backup/js/tail.txt
+/Users/a00987471/.Trash/BACKUP 2.28.13 PM/cat.txt
+/Users/a00987471/.Trash/BACKUP 2.28.13 PM/head.txt
+/Users/a00987471/.Trash/BACKUP 2.28.13 PM/html.txt
+/Users/a00987471/.Trash/BACKUP 2.28.13 PM/jpg.txt
+/Users/a00987471/.Trash/git/mockexam2/css/cat1.txt
+/Users/a00987471/.Trash/git/mockexam2/curl.txt
+/Users/a00987471/.Trash/git/mockexam2/find.txt
+/Users/a00987471/.Trash/git/mockexam2/js/cat1.txt
+/Users/a00987471/.Trash/git/mockexam2/js/head.txt
+/Users/a00987471/.Trash/git/mockexam2/js/tail.txt
+/Users/a00987471/.Trash/git 2.28.13 PM/ex2/cat.txt
+/Users/a00987471/.Trash/git 2.28.13 PM/ex2/head.txt
+/Users/a00987471/.Trash/git 2.28.13 PM/ex2/html.txt
+/Users/a00987471/.Trash/git 2.28.13 PM/ex2/jpg.txt
+/Users/a00987471/Desktop/mygit/D3sysexam/bottom.txt
+/Users/a00987471/Desktop/mygit/D3sysexam/commands/desktopls.txt
+/Users/a00987471/Desktop/mygit/D3sysexam/commands/find.txt
+/Users/a00987471/Desktop/mygit/D3sysexam/commands/img.txt
+/Users/a00987471/Desktop/mygit/D3sysexam/scripts/commands/desktopls.txt
+/Users/a00987471/Desktop/mygit/D3sysexam/scripts/commands/img.txt
+/Users/a00987471/Desktop/mygit/D3sysexam/top.txt
+/Users/a00987471/htdocs/commands/desktopls.txt
+/Users/a00987471/htdocs/commands/img.txt
+/Users/a00987471/htdocs/scripts/commands/desktopls.txt
+/Users/a00987471/htdocs/scripts/commands/img.txt
+/Users/a00987471/Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/783e7ccd1569e6f0af8b16953519e77950ae84e4/index.txt
+/Users/a00987471/Library/Application Support/TextWrangler/.SupportFolderMigration.txt
+/Users/a00987471/Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000000-csi.txt
+/Users/a00987471/Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000001-csi.txt
